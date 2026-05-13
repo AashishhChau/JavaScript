@@ -1,5 +1,5 @@
-// Greater Than Ten: Write an `if-else` statement to check if a number is greater than 10. Print "Greater 
-// than 10" if true, otherwise "10 or less." 
+// . Check Equality: Write an `if-else` statement to check if two numbers are equal. Print "Equal" if true, 
+// otherwise "Not equal." 
 
 let num0=15;
 let num1=10;
